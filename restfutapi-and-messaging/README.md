@@ -14,10 +14,20 @@ The following _Red Hat Fuse Online_ integrations illustrate how to publish and s
 
     - _Red Hat Fuse Online_ integration export : [_ConsumeJsonValidationRespAMQPQueue-export.zip](./_ConsumeJsonValidationRespAMQPQueue-export.zip) 
 
-## Red Hat Fuse Online components
+The following screenshot shows the main _Red Hat Fuse Online_ components involved in this use-case.
 
 ![api-messaging-components.png](../images/api-messaging-components.png)
 
+- _Red Hat Fuse Online_ integrations
+
+
+- _Red Hat Fuse Online_ connections:
+
+    - _Red Hat AMQ 7 Broker_ AMQP Connection
+    - _Sample JSON Validation API_ RESTful connection
+
+- _Sample JSON Validation API_ client connector
+
 ## Import instructions
 
-TODO
+:construction: **TODO**
