@@ -28,9 +28,9 @@ The following screenshot shows the main _Red Hat Fuse Online_ components involve
 1. Import the integration `*.zip` archives in _Fuse 7.7 Online_:
 
     ![restfutapi-and-messaging_import.png](../images/restfutapi-and-messaging_import.png)
-    - `_ConsumeJsonValidationRespAMQPQueue-export.zip`
-    - `_SampleValidationsPeriodicTrigger-export.zip`
-    - `JSONValidationMicroService-export.zip`
+    - [`_ConsumeJsonValidationRespAMQPQueue-export.zip`](./integrations/_ConsumeJsonValidationRespAMQPQueue-export.zip)
+    - [`_SampleValidationsPeriodicTrigger-export.zip`](./integrations/_SampleValidationsPeriodicTrigger-export.zip)
+    - [`JSONValidationMicroService-export.zip`](./integrations/JSONValidationMicroService-export.zip)
 
 2. Update the _Red Hat AMQ 7 Broker AMQP connection_ configuration according to your environment
 
