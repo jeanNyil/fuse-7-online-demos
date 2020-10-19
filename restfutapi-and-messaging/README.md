@@ -36,9 +36,13 @@ The following screenshot shows the main _Red Hat Fuse Online_ components involve
 
     ![RedHatAMQ7BrokerAMQP-connector.png](../images/RedHatAMQ7BrokerAMQP-connector.png)
 
-3. Update the _Sample JSON Validation API_ connector configuration according to your environment
+3. Update the _Sample JSON Validation API_ `connection` configuration according to your environment
 
-    ![SampleJSONValidationAPI-connector.png](../images/SampleJSONValidationAPI-connector.png)
+    ![SampleJSONValidationAPI-api_connection.png](../images/SampleJSONValidationAPI-api_connection.png)
+
+    as well as the _Sample JSON Validation API_ `api client connector`
+
+    ![SampleJSONValidationAPI-api_client_connector.png](../images/SampleJSONValidationAPI-api_client_connector.png)
 
 4. Edit and save each integration before publishing them so the new connectors settings can be taken into account.
 
